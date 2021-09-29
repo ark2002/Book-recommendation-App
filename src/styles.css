@@ -1,0 +1,18 @@
+.App {
+  font-family: "Times New Roman", Times, serif;
+  max-width: 500px;
+  margin: auto;
+  padding: 1rem;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+html {
+  background-image: linear-gradient(pink, purple);
+}
